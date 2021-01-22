@@ -1,1 +1,1 @@
-"# bootcamp.gerenciador-de-salas-de-reuni-es" 
+"# bootcamp.gerenciador-de-salas-de-reuniões" 
